@@ -1,4 +1,4 @@
-#### This one-question survey was sent using SurveyMonkey to 17 investigators at 17 U.S. academic medical centers who might be potential secondary users of PEDALFAST data. This repository is the public archive of the survey.
+#### This one-question SurveyMonkey survey was conducted during January-February 2018. It was sent to 17 investigators at 17 U.S. academic medical centers who might be potential secondary users of PEDALFAST data. This repository is the public archive of the survey.
 
 
 
